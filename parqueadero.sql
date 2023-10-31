@@ -1,0 +1,2 @@
+create database loginlogoutexample;
+use loginlogoutexample;
